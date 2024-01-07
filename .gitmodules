@@ -1,0 +1,4 @@
+[submodule "OneManager-php"]
+	path = OneManager-php
+	url = git@github.com:qkqpttgf/OneManager-php.git
+	branch = master
